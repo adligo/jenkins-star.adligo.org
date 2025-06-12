@@ -1,4 +1,4 @@
-export BUN_HOME=/opt/bun/bin
+export BUN_HOME=/opt/bun
 export JAVA_HOME=/opt/jdk-24.0.1
 export GRADLE_HOME=/opt/gradle-8.14
 export NODE_HOME=/opt/node-v24.2.0-linux-x64
